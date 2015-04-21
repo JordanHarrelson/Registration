@@ -189,4 +189,13 @@
         android:layout_toLeftOf="@+id/edphonetxt"
         android:layout_toStartOf="@+id/edphonetxt" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="register"
+        android:id="@+id/registerbtn"
+        android:layout_marginBottom="61dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
 </RelativeLayout>
